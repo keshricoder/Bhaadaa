@@ -1,0 +1,10 @@
+/* Media Query css for small devices */
+
+@media only screen and (max-width:576px) {
+    .steps_section {
+        padding: auto 20px;
+    }
+    .android-img img {
+        float: center !important;
+    }
+}
